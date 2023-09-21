@@ -13,7 +13,6 @@ public class Fordon
         vikt = Vikt;
     }
 
-
     public virtual void SkrivUt()
     {
     }
